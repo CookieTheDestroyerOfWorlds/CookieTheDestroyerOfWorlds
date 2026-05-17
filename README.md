@@ -22,15 +22,3 @@ Production e-commerce platform built with Laravel, Docker, Stripe/PayPal, queues
 
 📂 Demo credentials: https://github.com/CookieTheDestroyerOfWorlds/Voidforge/blob/main/TestCredentials/UserCredentials.md<br>
 🌐 Live: https://voidforgestore.com/products<br>
-
-### ⚔️ Warcraft 3 Strategy Hub
-Fullstack Warcraft III strategy platform with:
-- matchup guides
-- build orders
-- hero and unit data
-- admin dashboard
-- mobile support
-
-## Current Goal
-- Becoming a Senior Backend Software Developer
-
