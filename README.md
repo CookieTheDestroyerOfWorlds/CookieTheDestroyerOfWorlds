@@ -20,6 +20,12 @@ Backend-focused software developer building fullstack web and mobile application
 
 ## Featured Projects
 
+### 🛒 VoidForgeStore
+Production e-commerce platform built with Laravel, Docker, Stripe/PayPal, queues, admin tooling, and Cloudflare deployment.
+Demo Credentials are located in: https://github.com/CookieTheDestroyerOfWorlds/Voidforge/blob/main/TestCredentials/UserCredentials.md
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/CookieTheDestroyerOfWorlds/Voidforge/blob/main/TestCredentials/UserCredentials.md)
+🌐 https://voidforgestore.com/products
+
 ### ⚔️ Warcraft 3 Strategy Hub
 Fullstack Warcraft III strategy platform with:
 - matchup guides
@@ -28,23 +34,14 @@ Fullstack Warcraft III strategy platform with:
 - admin dashboard
 - mobile support
 
-### 🛒 VoidForgeStore
-Production e-commerce platform built with Laravel, Docker, Stripe/PayPal, queues, admin tooling, and Cloudflare deployment.
-Demo Credentials are located in: https://github.com/CookieTheDestroyerOfWorlds/Voidforge/blob/main/TestCredentials/UserCredentials.md
-
-🌐 https://voidforgestore.com/products
-
 ---
 
 ## Current Focus
 
+- Becoming Senior Backend Engineer
 - Backend architecture
 - Scalable systems
 - APIs and databases
 - Production-ready applications
 
 ---
-
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CookieTheDestroyerOfWorlds&layout=compact)
