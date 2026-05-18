@@ -1,5 +1,5 @@
 # Hey, I'm Svetoslav 👋
-Backend Software Developer in building websites
+Backend Software Developer with hands on experience with problems caused by too much code and not enough thinking. The saying goes fix it for now think about the problem later on and create technical debt.
 
 ## Tech Stack
 
